@@ -1,0 +1,6 @@
+{
+  "name": "CERA·REPAIR Skin Barrier Studio",
+  "description": "Clinical skin barrier repair platform featuring ingredient science, AM/PM routine builder, barrier damage diagnostics, curated repair catalog, and verified FAQs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
